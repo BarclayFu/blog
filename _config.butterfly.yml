@@ -40,7 +40,7 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://s2.loli.net/2024/01/02/KviujJbzSVm4pEc.png
 
 # Avatar (頭像)
 avatar:
@@ -281,7 +281,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date:
+  publish_date: 2024/01/01 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -604,7 +604,9 @@ site_verification:
 
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
-
+theme_color:
+  enable: true
+  main: '#78645D'
 # theme_color:
 #   enable: true
 #   main: '#49B1F5'
@@ -770,7 +772,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - Ave Imperator, morituri te salutant.
+    - Morituri te salutant.
 
 # Loading Animation (加載動畫)
 preloader:
