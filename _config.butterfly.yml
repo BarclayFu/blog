@@ -16,6 +16,9 @@ menu:
   List||fas fa-list:
     Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
+    Book: /books/ || fas fa-book
+    Game: /games/ || fas fa-gamepad
+    Anime: /animes/ || fas fa-film
   Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
@@ -57,20 +60,20 @@ index_img: https://s2.loli.net/2024/01/02/VqfZoAl4X36Y7pk.jpg
 default_top_img:
 
 # The banner image of archive page
-archive_img:
+archive_img: https://s2.loli.net/2024/01/02/hMgWyXCdxTOcBVu.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://s2.loli.net/2024/01/02/hMgWyXCdxTOcBVu.jpg
 
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img:
+tag_per_img: https://s2.loli.net/2024/01/02/hMgWyXCdxTOcBVu.jpg
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: https://s2.loli.net/2024/01/02/hMgWyXCdxTOcBVu.jpg
 
 # The banner image of category page
 # format:
@@ -518,7 +521,7 @@ artalk:
 
 # Chat Button [recommend]
 # It will create a button in the bottom right corner of website, and hide the origin button
-chat_btn: false
+chat_btn: true
 
 # The origin chat button is displayed when scrolling up, and the button is hidden when scrolling down
 chat_hide_show: false
@@ -526,8 +529,8 @@ chat_hide_show: false
 # chatra
 # https://chatra.io/
 chatra:
-  enable: false
-  id:
+  enable: true
+  id: 6hChPjFp2upoN5oRG
 
 # tidio
 # https://www.tidio.com/
