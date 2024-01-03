@@ -20,7 +20,7 @@ menu:
     Game: /games/ || fas fa-gamepad
     Anime: /animes/ || fas fa-film
   Link: /link/ || fas fa-link
-  About: /about/ || fas fa-heart
+  About: /About/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -760,10 +760,10 @@ subtitle:
   # Customize typed.js (配置typed.js)
   # https://github.com/mattboldt/typed.js/#customization
   startDelay: 300 # time before typing starts in milliseconds
-  typeSpeed: 100 # type speed in milliseconds
+  typeSpeed: 60 # type speed in milliseconds
   backSpeed: 50 # backspacing speed in milliseconds
   # loop (循環打字)
-  loop: true
+  loop: false
 
   typed_option:
   # source 調用第三方服務
@@ -775,7 +775,8 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - Morituri te salutant.
+    - Morituri te salutant 赴死者向你致敬🫡
+    - (其实是谐音梗hhh
 
 # Loading Animation (加載動畫)
 preloader:

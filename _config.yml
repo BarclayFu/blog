@@ -60,4 +60,6 @@ exclude: null
 ignore: null
 theme: butterfly
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/BarclayFu/BarclayFu.github.io
+  branch: master

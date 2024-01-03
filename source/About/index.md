@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 date: 2024-01-01 20:33:34
 ---
 ![5000choyen.png](https://s2.loli.net/2024/01/02/dFG6CLNUbloejqm.png)
