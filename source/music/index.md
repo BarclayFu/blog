@@ -34,3 +34,33 @@ top_img: https://s2.loli.net/2024/01/03/prbyHNg6T7kfn13.jpg
     <p>个人评价: 昭和神曲代表之一，昭和神曲不仅有塑料爱和stay with me。最近宝钟马琳cover的爱人感觉也很棒！</p>
   </div>
 </div>
+
+<div class="music-card">
+<iframe height="256" src="https://www.youtube.com/embed/lOisQEOcRCw?si=BAkCL6a7A24f2W0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <div class="music-info">
+    <h3>Arpeggio(琶音)</h3>
+    <p>简介: Ichika Nito 琶音</p>
+    <p>个人评价: 引用下评论：You've got to be the cleanest guitarist on youtube. 虽然频道里播放量最多的视频是14弦琴，但是对于Ichika Nito我还是最喜欢Arpeggio。频道里很多的视频都倾向于炫技，但牛x是确实没法否认的。（啥时候我也能这样🥲</p>
+  </div>
+</div>
+
+<div class="music-card">
+<iframe height="256" src="https://www.youtube.com/embed/c-shpcGOq3A?si=mJ7GNDS_2l1qmuqD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <div class="music-info">
+    <h3>10年ぶりに「God knows...」を少し弾いてみました。【ギター】by mukuchi</h3>
+    <p>简介: 2011年に投稿したGod Knows... が先日10周年を迎えました。いつも応援してくださる皆様本当にありがとうございます。TV anime 「涼宮ハルヒの憂鬱」劇中歌 「God knows...」</p>
+    <p>个人评价: 十年弹指一挥间，当年看无口酱觉得帅，现在也一样。</p>
+  </div>
+</div>
+
+<div class="music-card">
+  <iframe src="//player.bilibili.com/player.html?aid=74742996&bvid=BV15E411i7w3&cid=127854362&p=1" height = "256" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+  <div class="music-info">
+    <h3>岸部真明《奇迹的山》</h3>
+    <p>简介: This tune Miracle Mountain 奇跡の山 is from 5th Album "奇跡の山" (2006) of Masaaki Kishibe 岸部真明 </p>
+    <p>个人评价: 17年在郑州现场看了岸部的演奏会，最近的时候只离我们半米。自己也弹了几年，但是总感觉差点意思。（还是流行的云简单（云：勿cue（Like a Star：就这？所以你啥时候能把我弹顺？</p>
+  </div>
+</div>
