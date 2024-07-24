@@ -5,11 +5,11 @@ tags:
 - Docker
 - 转载
 categories: 后端开发
-cover: 
+cover: https://s2.loli.net/2024/07/25/E8fTAXLukqRZVrF.png
 ---
 # 本文来自LinuxDo，[传送门在此](https://linux.do/t/topic/17895).
 PS: 求个LinuxDo推荐码,不想看到啥好资源都要这样手动收藏到博客啊啊啊啊啊啊
-
+<img src = "https://s2.loli.net/2024/07/25/E8fTAXLukqRZVrF.png" alt = "技术可能也是难喝的酒，那可得让大家都尝尝才行（雾">
 # Docker笔记
 
 ## 1.快速入门
