@@ -63,3 +63,6 @@ deploy:
   type: git
   repo: https://github.com/BarclayFu/BarclayFu.github.io
   branch: master
+aplayer:
+  meting: true
+  asset_inject: false

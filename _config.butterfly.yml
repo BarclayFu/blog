@@ -20,7 +20,7 @@ menu:
     Game: /games/ || fas fa-gamepad
     Anime: /animes/ || fas fa-film
   Link: /link/ || fas fa-link
-  About: /About/ || fas fa-heart
+  About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -54,7 +54,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://s2.loli.net/2024/01/02/VqfZoAl4X36Y7pk.jpg
+index_img: https://s2.loli.net/2024/08/21/cU2g5rAk13HtRFu.gif
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -237,7 +237,7 @@ aside:
       link: https://github.com/BarclayFu
   card_announcement:
     enable: true
-    content: 博客施工中……
+    content: 博客施工中……<br> 嗨，你好！欢迎访问我的博客！如果有任何问题欢迎留言或者发邮件给我哦！<br> Email：meow@barclayfu.cloudns.be
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -743,8 +743,8 @@ font:
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link:
-  font-family:
+  font_link: https://fonts.googleapis.com/css2?family=Space+Mono&display=swap
+  font-family: 'Space Mono'
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
@@ -854,14 +854,14 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
@@ -926,7 +926,8 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - <div class="aplayer no-destroy" data-id="12506366279" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true"> </div>
+      # - <script src="xxxx"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
