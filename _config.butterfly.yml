@@ -237,7 +237,9 @@ aside:
       link: https://github.com/BarclayFu
   card_announcement:
     enable: true
-    content: 博客施工中……<br> 嗨，你好！欢迎访问我的博客！如果有任何问题欢迎留言或者发邮件给我哦！<br> Email：meow@barclayfu.cloudns.be
+    content: |
+      博客施工中……<br> 嗨，你好！欢迎访问我的博客！如果有任何问题欢迎留言或者发邮件给我哦！
+      <br> Email：meow@barclayfu.cloudns.be <br> 也欢迎订阅个人的梗图/废话频道:<a href= "https://t.me/BarclaysRambling">@BarclaysRambling</a>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
