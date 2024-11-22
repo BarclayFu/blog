@@ -20,7 +20,7 @@ menu:
     Game: /games/ || fas fa-gamepad
     Anime: /animes/ || fas fa-film
   Link: /link/ || fas fa-link
-  About: /about/ || fas fa-heart
+  About: /About/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
