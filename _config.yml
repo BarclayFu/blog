@@ -4,7 +4,7 @@ description: ''
 keywords: null
 author: Sizhe Fu
 language: zh-CN
-timezone: ''
+timezone: Asia/Shanghai
 url: https://barclayfu.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
@@ -58,7 +58,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: butterfly
+theme: solitude
 deploy:
   type: git
   repo: https://github.com/BarclayFu/BarclayFu.github.io

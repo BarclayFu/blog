@@ -1,0 +1,29 @@
+- class_name: 生产力
+  description: 提升自己生产效率的硬件设备
+  equipment_list:
+    - name: MacBook Pro M3 Max 16英寸
+      specification: 36GB 内存 / 1TB 存储
+      description: 我的主要工作站，处理基本所有工作任务，包括编程、写作和设计。
+      image: https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/macbook-pro-14-inch-m3-pro-or-m3.png
+      link: https://support.apple.com/zh-cn/117737
+
+    - name: Alienware M18 R2
+      specification: 14900HX / RTX 4080
+      description: Windows系统的主力机，也用来玩游戏。
+      image: https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-m18-mlk/media-gallery/laptop-alienware-m18-r2-intel-bk-gallery-6.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=541&qlt=100,1&resMode=sharp2&size=541,402&chrss=full
+      link: https://www.dell.com/en-us/shop/dell-laptops/alienware-m18-r2-gaming-laptop/spd/alienware-m18-r2-laptop
+
+    - name: iPhone 16 Pro
+      specification: 原色钛金属
+      description: 功能强大，外观抢眼，设计耐用。
+      image: https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/121031-iphone-16-pro.png
+      link: https://support.apple.com/zh-cn/121031
+
+- class_name: 出行
+  description: 用来出行的实物及设备
+  equipment_list:
+    - name: Apple Watch Series 7
+      specification: GPS / 45mm
+      description: 健康监测功能强大，续航时间长，设计时尚。
+      image: https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111909_series7-480.png
+      link: https://support.apple.com/zh-cn/111909
