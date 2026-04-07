@@ -3,11 +3,11 @@ authorinfo:
   leftTags:
     - 🤖️ 数码科技爱好者
     - 🔍 分享与热心帮助
-    - 🏠 智能家居小能手
+    - 🌌 深夜折腾派
   rightTags:
     - 脚踏实地行动派 🏃
-    - 团队小组发动机 🧱
-    - AI狂热信徒 🙏
+    - 梦想成为脱口秀演员 🧱
+    - AI观察者 👀
   image: https://s2.loli.net/2024/01/02/TfVHC6YZLv25ydG.jpg
 
 # 标题
@@ -18,7 +18,7 @@ title: 关于本站
 contentinfo: # 顶部个人信息展示
   sup: 你好，很高兴认识你👋
   name: 我是付思哲Barclay # 名称
-  title: 软件工程师、独立开发者 # 介绍
+  title: 软件工程师、独立开发者、学过经济学的码农 # 介绍
   tip: 追求
   slogan: 源于<br>热爱而去创造
   mask:
@@ -68,6 +68,9 @@ careers:
     - school: 美国匹兹堡大学
       major: 信息科学
       color: '#56a178'
+    - school: 浪潮集团
+      major: 软件工程师
+      color: '#f7cb4f'
   image: https://cdn.lightxi.com/cloudreve/uploads/2025/07/31/y5BrUhFv_67a216483c354.webp
 
 # 性格模块
@@ -92,7 +95,7 @@ motto:
 # 特长模块
 expertise:
   title: 特长
-  prefix: 数学、物理、化学
+  prefix: 英语、数学、编程
   specialist: 专家
   content: 学习能力
   level: MAX
@@ -102,7 +105,7 @@ expertise:
 game:
   - title: 游戏爱好
     img: https://solitude.js.org/example.png
-    subtitle: APEX LEGENDS
+    subtitle: 守望先锋
     box_shadow: '0 -69px 203px 11px #04120f inset'
     # icon_group:
     #   - https://7.isyangs.cn/66/6738b472ce11f-66.webp
@@ -143,8 +146,8 @@ likes:
   - type: like-technology
     bg: https://solitude.js.org/example.png
     tips: 关注偏好
-    title: 数理化
-    subtips: 理工男
+    title: AI、编程、数码、美股
+    subtips: 非典型理工男
   - type: like-music
     bg: https://cdn.lightxi.com/cloudreve/uploads/2025/07/31/4ee6GcaT_43ed444540c635ee869d58067ece8452.jpg
     tips: 音乐偏好
@@ -164,7 +167,7 @@ tj: # 统计
 # 个人信息模块
 oneself: # 按需填写
   location: Somewhere on Earth # 所在位置
-  birthYear: # 生日
+  birthYear: 1999 # 生日
   university: 美国匹兹堡大学 # 毕业学校
   major: 信息科学 # 专业
   occupation: 软件工程师 # 职位
@@ -176,7 +179,16 @@ oneself: # 按需填写
 cause:
   tip: 心路历程
   title: 为什么建站？
-  content:
+  content: |
+    <pre style="font-family: monospace; line-height: 1; white-space: pre; overflow: auto;">
+    _       __     __                              __            _____ _       __              ____  __            __
+    | |     / /__  / /________  ____ ___  ___      / /_____      / ___/(_)___  / /_  ___       / __ )/ /___  ____ _/ /
+    | | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \    / __/ __ \     \__ \/ /_  / / __ \/ _ \     / __  / / __ \/ __ `/ / 
+    | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/   / /_/ /_/ /    ___/ / / / /_/ / / /  __/    / /_/ / / /_/ / /_/ /_/  
+    |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/    \__/\____/    /____/_/ /___/_/ /_/\___/    /_____/_/\____/\__, (_)   
+                                                                                                          /____/      
+    </pre>
+
     <br>创建这个站的时候，想要就是能够有一个自己能够<b>积累知识、积累兴趣</b>的地方。和他人分享，会让这些成为积累和沉淀。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
     <br>
     与大多数垂直类的技术博客不同，这里的种类会非常的繁杂，有<b>技能的教程干货</b>、有<b>生活上的吐槽和妙招</b>、有<b>话题上的思考和想法</b>。一般我研究什么、发现了什么都会分享在这里。
