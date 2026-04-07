@@ -21,7 +21,7 @@ site:
   name:
     class: text # text / i_class / img
     custom: Sizhe的Blog # Solitude / fas fa-ghost / /img/pwa/favicon.ico
-  icon: /img/pwa/favicon.png # Site icon / 网站图标
+  icon: https://s2.loli.net/2024/01/02/TfVHC6YZLv25ydG.jpg # Site icon / 网站图标
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -56,11 +56,11 @@ nav:
   right:
     random: false # Random article / 随机文章按钮
     custom:
-     - name: 开往 # 名字
-       url: https://www.travellings.cn/go.html # 跳转链接
-       icon: fas fa-train # 图标
-       onclick: # 点击事件
-       id: travellings_button # id
+      - name: 开往 # 名字
+        url: https://www.travellings.cn/go.html # 跳转链接
+        icon: fas fa-train # 图标
+        onclick: # 点击事件
+        id: travellings_button # id
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -78,22 +78,25 @@ hometop:
     icon:
       HTML: # name
         img: https://i.postimg.cc/vBWVnY8q/html.png # url
-        color: "#e9572b" # color
+        color: '#e9572b' # color
       JS:
         img: https://i.postimg.cc/3N10Ltv2/js.png
-        color: "#f7cb4f"
+        color: '#f7cb4f'
       Docker:
         img: https://i.postimg.cc/8Pk6Fg24/docker.png
-        color: "#57b6e6"
+        color: '#57b6e6'
       Flutter:
         img: https://i.postimg.cc/hPC7T3gB/flutter.png
-        color: "#ffffff"
+        color: '#ffffff'
       WebPack:
         img: https://i.postimg.cc/dVLZBmtT/webpack.png
-        color: "#2e3a41"
+        color: '#2e3a41'
       Git:
         img: https://i.postimg.cc/nhgjwjCS/git.png
-        color: "#df5b40"
+        color: '#df5b40'
+      Java:
+        img: https://s2.loli.net/2024/01/02/TfVHC6YZLv25ydG.jpg
+        color: '#f7cb4f'
   group:
     热门: /tags/Fire/ || fas fa-fire || linear-gradient(to right,#f65,#ffbf37)
   recommendList:
@@ -102,7 +105,7 @@ hometop:
     title: Solitude 官方文档
     url: https://solitude.js.org/
     img: /img/default.avif
-    color: "none"
+    color: 'none'
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -115,14 +118,14 @@ aside:
   # Sticky: Fixed position / noSticky: Not fixed position
   # Sticky: 固定位置 / noSticky: 不固定位置
   home: # on the homepage
-    noSticky: "about"
-    Sticky: "allInfo"
+    noSticky: 'about'
+    Sticky: 'allInfo'
   post: # on the article page
-    noSticky: "about"
-    Sticky: "newestPost"
+    noSticky: 'about'
+    Sticky: 'newestPost'
   page: # on the page
-    noSticky: "about"
-    Sticky: "newestPost,allInfo"
+    noSticky: 'about'
+    Sticky: 'newestPost,allInfo'
   # 菜单栏位置(0: 左 1: 右)
   position: 1 # Sidebar positioning(0: left 1: right)
 
@@ -150,7 +153,7 @@ aside:
     # social
     # 社交信息图标
     information:
-     Github: https://github.com/BarclayFu || fab fa-github # Name: link || icon
+      Github: https://github.com/BarclayFu || fab fa-github # Name: link || icon
     #  Bilibili: https://space.bilibili.com/1329819902 || fab fa-bilibili
   # --------------------------- end ---------------------------
 
@@ -196,7 +199,7 @@ aside:
     runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: "2023-04-20 00:00:00"
+    runtime: '2023-04-20 00:00:00'
   # --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
@@ -329,8 +332,8 @@ post:
 # --------------------------- start ---------------------------
 # Custom Theme Color
 theme_color:
-  dark: "#ffc848" # dark
-  light: "#425AEF" # light
+  dark: '#ffc848' # dark
+  light: '#425AEF' # light
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -353,7 +356,7 @@ font:
   code-font-size: 16px
   # Global font
   # 全局字体
-  font-family: "PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif"
+  font-family: 'PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif'
   # Code font
   # 代码字体
   code-font-family: '"monospace", monospace'
@@ -376,8 +379,8 @@ expire:
   enable: false
   time: 30 # days
   position: top # top / bottom
-  text_prev: "This article expired "
-  text_next: " day ago, if the content does not match, please contact the webmaster to update it."
+  text_prev: 'This article expired '
+  text_next: ' day ago, if the content does not match, please contact the webmaster to update it.'
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -484,7 +487,7 @@ console:
     tags: true
     # Archives
     # 归档
-    archive: "month" # month: by month / year: by year
+    archive: 'month' # month: by month / year: by year
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -573,7 +576,7 @@ errorpage:
 # can only use NetEase Cloud Music, QQ Music and other music platforms supported by the mainland China region,
 # the subsequent consideration of the use of JSON files to store music information and customize the implementation of the third-party API does not depend on the page.
 # Music Page
-meting_api: "https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r" # Custom API
+meting_api: 'https://meting.qjqq.cn/?server=:server&type=:type&id=:id&auth=:auth&r=:r' # Custom API
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -618,7 +621,7 @@ keyboard:
 lazyload:
   enable: false
   field: site
-  placeholder: ""
+  placeholder: ''
   errorimg: /img/error_load.avif
 # --------------------------- end ---------------------------
 
@@ -661,10 +664,10 @@ highlight:
 # --------------------------- start ---------------------------
 # Lightbox
 # 图片灯箱
-lightbox: false
+lightbox: true
 # warning: Please select any one, but cannot be turned on at the same time.
 # 警告: 请任选其一，但不能同时开启。
-fancybox: false # fancybox
+fancybox: true # fancybox
 mediumZoom: false # mediumZoom
 # --------------------------- end ---------------------------
 
@@ -727,7 +730,7 @@ verify_site:
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
-# Legacy CSS Prefix 
+# Legacy CSS Prefix
 # CSS前缀配置
 css_prefix: true
 # --------------------------- end ---------------------------
@@ -753,7 +756,7 @@ extends:
 pwa:
   enable: false
   manifest: /manifest.json # manifest.json
-  theme_color: "#006a73" # Theme color
+  theme_color: '#006a73' # Theme color
   mask_icon: /img/pwa/favicon.png # Mask icon
   apple_touch_icon: /img/pwa/favicon.png # Apple touch icon
   bookmark_icon: /img/pwa/favicon.png # Bookmark icon
@@ -895,8 +898,8 @@ envelope:
 # Brevity Page
 # 即刻短文
 brevity:
-  enable: false
-  home_mini: false
+  enable: true
+  home_mini: true
   music: false
   page: /essay/
   style: 1
@@ -915,7 +918,7 @@ recent_comments:
 
 # --------------------------- start ---------------------------
 # Busuanzi
-busuanzi: false
+busuanzi: true
 # 0: Original / 1: Custom
 # 0: 原版 / 1: 自定义版
 busuanzi_use: 0
@@ -957,11 +960,11 @@ CDN:
   internal: local # local / cdnjs / jsdelivr / unpkg / custom
   third_party: custom # cdnjs / jsdelivr / unpkg / custom
   version: true # 是否使用版本号
-  
+
   # Custom format for CDN URLs
   # CDN URL 自定义格式
   custom_format: https://cdn.jsdelivr.net/npm/${name}@${version}/${min_file}
-  
+
   # 直接覆盖默认 CDN 链接（优先级最高）
   options:
     # algolia_search:
