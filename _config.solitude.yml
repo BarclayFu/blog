@@ -170,7 +170,7 @@ aside:
   # Tags
   # 标签
   tags:
-    enable: false
+    enable: true
     limit: 20 # Number of tags displayed
     # Highlighted tags
     highlight_list:
@@ -186,7 +186,7 @@ aside:
     postcount: true
     # Total number of words
     # 总字数
-    wordcount: false
+    wordcount: true
     # PV
     pv: true
     # UV
@@ -199,7 +199,7 @@ aside:
     runtimeenable: true
     # Format: yyyy-MM-dd hh-mm-ss
     # 格式: yyyy-MM-dd hh-mm-ss
-    runtime: '2023-04-20 00:00:00'
+    runtime: '2023-12-30 00:24:08'
   # --------------------------- end ---------------------------
 # --------------------------- end ---------------------------
 
@@ -236,7 +236,7 @@ post:
     # Default image when no cover is set
     # 未设置封面时的默认图片
     cover:
-      # - /img/default.avif # 默认图片 / default cover
+      - /img/default.avif # 默认图片 / default cover
     # Location
     # 位置
     locate: China
@@ -261,23 +261,23 @@ post:
   meta:
     # Release date
     # 发布日期
-    date: false
+    date: true
     # Update date
     # 更新日期
-    updated: false
+    updated: true
     # Location
     # 位置
-    locate: false
+    locate: true
     # Number of words
     # 字数
-    wordcount: false
+    wordcount: true
     # uv
-    readtime: false
+    readtime: true
     # pv
     pv: false
     # Comment count
     # 评论数
-    comment: false
+    comment: true
   # Reward
   # 打赏
   award:
@@ -345,7 +345,7 @@ display_mode:
   type: auto
   # After opening, the dark mode will display the starry sky background
   # 开启后深色模式会显示星空背景
-  universe: false
+  universe: true
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -501,13 +501,13 @@ translate:
 # Right-Sidebar
 # 右下角悬停导航栏
 rightside:
-  enable: false
-  percent: false
+  enable: true
+  percent: true
   hide:
-    enable: false
-    translate: false
-    mode: false
-    aside: false
+    enable: true
+    translate: true
+    mode: true
+    aside: true
 # --------------------------- start ---------------------------
 
 # --------------------------- start ---------------------------
@@ -702,7 +702,7 @@ OpenGraph:
 # 字数统计
 # warning: Please install the hexo-wordcount plugin first.
 # 警告: 请先安装 hexo-wordcount 插件。
-wordcount: false
+wordcount: true
 # --------------------------- end ---------------------------
 
 # --------------------------- start ---------------------------
@@ -770,7 +770,7 @@ pwa:
 comment:
   # Which commenting system to use(e.g. waline or waline,twikoo)
   # 使用哪个评论系统（例如： waline or waline,twikoo）
-  use: # waline, twikoo, valine, artalk, giscus # Up to two comment systems can be turned on at the same time
+  use: giscus # waline, twikoo, valine, artalk, giscus # Up to two comment systems can be turned on at the same time
   # Whether to display the hot comment switch.
   # 是否显示热门评论开关
   commentBarrage: false
@@ -827,9 +827,9 @@ artalk:
   option: # options
 # Giscus: https://solitude.js.org/configuration/comment/giscus
 giscus:
-  repo: # GitHub repository name
-  repo_id: # GitHub repository ID
-  category_id: # GitHub repository category ID
+  repo: BarclayFu/blog # GitHub repository name
+  repo_id: R_kgDOK_wEvg # GitHub repository ID
+  category_id: DIC_kwDOK_wEvs4C6RiM # GitHub repository category ID
   theme:
     light: light
     dark: dark
@@ -918,7 +918,7 @@ recent_comments:
 
 # --------------------------- start ---------------------------
 # Busuanzi
-busuanzi: true
+busuanzi: false
 # 0: Original / 1: Custom
 # 0: 原版 / 1: 自定义版
 busuanzi_use: 0

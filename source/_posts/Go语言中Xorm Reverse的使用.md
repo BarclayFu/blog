@@ -6,6 +6,8 @@ tags:
 - Xorm
 categories: 后端开发
 cover: https://pub-2f039bcc31c44eb8a3d5406db7997c4c.r2.dev/wp7041136-golang-wallpapers.png
+comment: true
+locate: 济南市
 ---
 ## 开端
 最近在学习GO语言，在跟着教程做项目的时候，教程里直接略去了Xorm的具体讲解，并且由于视频的年头比较长，现在Xorm已经迁移很多次，故此更新一下博客记录一下花了一下午才处理好的Xorm Reverse的使用方式。
