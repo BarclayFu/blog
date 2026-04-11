@@ -2,6 +2,8 @@
 title: 音乐
 date: 2024-01-02 00:32:22
 top_img: https://s2.loli.net/2024/01/03/prbyHNg6T7kfn13.jpg
+comment: false
+type: music
 ---
 
 <div class="music-card">
