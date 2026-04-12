@@ -747,6 +747,7 @@ extends:
   # Insert in head
   # 插入到 head
   head:
+    - '<script defer src="https://cloud.umami.is/script.js" data-website-id="b12899ad-93ee-46d8-8bd8-c0168df94726"></script>'
     - '<style>.author-content-item.personalities .image { right: 0 !important; bottom: 0 !important; } .author-content-item.personalities .image img { width: 300px; height: 300px; }</style>'
 
   # Insert in body
