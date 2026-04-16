@@ -107,9 +107,9 @@ hometop:
   recommendList:
     enable: true
     sup: 置顶
-    title: Solitude 官方文档
-    url: https://solitude.js.org/
-    img: /img/default.avif
+    title: 欢迎来到Sizhe Blog！ #Solitude 官方文档
+    url: /about/ #https://solitude.js.org/
+    img: /img/banner-new.gif
     color: 'none'
 # --------------------------- end ---------------------------
 
